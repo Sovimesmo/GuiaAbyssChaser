@@ -1,10 +1,10 @@
 # Guia de Mandraque Arqueiro  [by Nothiel, recuse imitações]
 
 Saudações a todos serumanos! Sou o Nothiel [ aka `Mandraquiel` no discord]. Atualmente jogo de Mandraque desde que lançou a classe. Como tem mta duvida sobre vou centralizar minhas experiencias aqui :) 
-Lembrando que esse guia vai ser open source ( link do github aqui! ), aceitamos pull requests, vamo q vamo
+Lembrando que esse guia vai ser open source ( link do github [aqui](https://github.com/nothiel/GuiaAbyssChaser)! ), aceitamos pull requests, vamo q vamo
 
 ## Atributos
-Com a chegada de `Frenzy shot`, os atributos mudaram um pouco do padrão de `Triangle Shot`. Não vou ensinar o que cada atributo faz, pra mais informações usem o bROWiki!
+Com a chegada de `Disparo Frenético`, os atributos mudaram um pouco do padrão de `Disparo Triplo`. Não vou ensinar o que cada atributo faz, pra mais informações usem o [bROWiki](https://browiki.org/wiki/Atributos)!
 
 Abaixo vou deixar como atualmente está a minha build e o pq de cada atributo :)
 
@@ -16,9 +16,9 @@ Abaixo vou deixar como atualmente está a minha build e o pq de cada atributo :)
 `LUK 125` Coloquei 125 por conta da Galensis ~~e nem usei~~, mas dá pra diminuir isso pra 120 e usar os pontos em int, por exemplo.
 
 ## Talentos
-Não sabe oq é talento? bROWiki!
+Não sabe oq é talento? [bROWiki](https://browiki.org/wiki/Talentos)!
 
-Aqui Mudará um pouco mais pra frente quando vier os proximos rebalances. Atualmente o peso de CON na formula do `Frenzy Shot` tá baixo, então é mais vantajoso usar POD (por conta do P.ATQ). Atualmente o meu tá:
+Aqui Mudará um pouco mais pra frente quando vier os proximos rebalances. Atualmente o peso de CON na formula do `Disparo Frenético` tá baixo, então é mais vantajoso usar POD (por conta do P.ATQ). Atualmente o meu tá:
 
 `POD 100` dano, dale
 `CON 97` mais dano, dale
@@ -29,8 +29,8 @@ Testei CON vs CRV por conta do T.CRIT, CON ainda é superior pq entra na formula
 ## Habilidades
 ### 1: Esconderijo 10, Furto 10, o resto fodase
 ### 2: Rajada de flechas no 7, pichar no 1 e preservar, o resto fodase
-### 3: Triangle Shot e Cópia Explosiva no 10, Mimetismo no 5 e Escapar no 5, o resto fodase
-### 4: Frenzy Shot no 10, Abyss Slayer no 10, Chain Reaction Shot no 10, o resto fodase
+### 3: Disparo Triplo e Cópia Explosiva no 10, Mimetismo no 5 e Escapar no 5, o resto fodase
+### 4: Disparo Frenético no 10, Sangue Frio no 10, Disparo em Cadeia no 10, o resto fodase
 
 ## Equipamentos
 Aqui começa a parte embaçada. Temos que fechar no minimo 125 de crit pra não errar o CRIT em monstros com defesa crítica (não sabe o que é defesa crítica? bROWiki, padawan) e 60% de pós pra fechar os 0.3s q temos q tirar.
@@ -82,7 +82,7 @@ Sai daqui bRO player safado
 `Carta Amdarais`: Amdarais sem muleta. 15% de dano fisico e mágico
 `Carta Amdarais Sombrio`: 20% de dano físico e mágico... me adota?
 ### Capa
-`Carta Ninja Team`: Que saudades do dano a mais do evento :/ anyways, boa carta overall, 200 de atq e uma def honesta
+`Carta Ninja Team`: Que saudades do dano a mais do evento :/ anyway, boa carta overall, 200 de atq e uma def honesta
 `Carta Empatia`: Junto com a Observação dá um dano a distancia ABSURDO. mt forte (uso essa atualmente)
 `Carta Quimera Galensis`: se tá com dificuldade de fechar CRIT essa carta pode te ajudar. Honestíssima.
 ### Bota
@@ -124,7 +124,7 @@ Aqui será a mesma coisa: Penetrante, mastodonte ou autoportante. O set ideal é
 `Escudo Sombrio da Recarga`: -10% de pós e ASPD. maravilhoso, era meu anterior.
 
 ## Gameplay
-Use `Esfaquear (Deft Stab)`/`Disparo Frenético (Frenzy Shot)` Pra recuperar AP. com 150 de AP usa o `Sangue Frio (Abyss Slayer)`.
+Use `Esfaquear (Deft Stab)`/`Disparo Frenético (Disparo Frenético)` Pra recuperar AP. com 150 de AP usa o `Sangue Frio (Abyss Slayer)`.
 em MvP oq eu faço é: 
 1- Dou cometa
 2- ATQ Surpresa

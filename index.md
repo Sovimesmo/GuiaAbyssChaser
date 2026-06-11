@@ -29,7 +29,7 @@ Testei CON vs CRV por conta do T.CRIT, CON ainda é superior pq entra na formula
 ## Habilidades
 ### 1: Esconderijo 10, Furto 10, o resto fodase
 ### 2: Rajada de flechas no 7, pichar no 1 e preservar, o resto fodase
-### 3: Disparo Triplo e Cópia Explosiva no 10, Mimetismo no 5 e Escapar no 5, o resto fodase
+### 3: Disparo Triplo e Cópia Explosiva no 10, Mimetismo, Escapar e Ofensiva Fatal no 5, o resto fodase
 ### 4: Disparo Frenético no 10, Sangue Frio no 10, Disparo em Cadeia no 10, o resto fodase
 
 ## Equipamentos
@@ -40,7 +40,7 @@ Abaixo vou colocar opções de builds
 ### TOPO
 `Memorável Artifício das Sombras <IT4+>`: CRIT e CRIT Dmg%. Bom d+. Não vejo outro hat por agora
 ### MEIO
-`Óculos Retrofuturista`: -10% de pós, é o kiel de peruca  
+`Óculos Retrofuturistas`: -10% de pós, é o kiel de peruca  
 `Asas Vitoriosas [1] <Pós>`: Com menos pós overall, mas com enchant de pós dá pra fechar e ainda tem slot
 ### BAIXO
 `Familiar de Combate`: Pós e dano, bom d+  
@@ -79,6 +79,7 @@ Sai daqui bRO player safado
 ### Armadura
 `Carta Byorgue`: Amdarais de muleta 10% de dano físico e mágico  
 `Carta Observação`: Combo com carta `Empatia`. Atualmente é a que uso  
+`Carta Raposa Raivosa`: Ajuda se ainda te falta CRIT.
 `Carta Amdarais`: Amdarais sem muleta. 15% de dano fisico e mágico  
 `Carta Amdarais Sombrio`: 20% de dano físico e mágico... me adota?
 ### Capa

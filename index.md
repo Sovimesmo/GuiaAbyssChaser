@@ -38,50 +38,56 @@ Nos proximos rebalances isso vai cair pra só 30% pq a recarga vai passar a ser 
 
 Abaixo vou colocar opções de builds
 ### TOPO
-`Memorável Artifício das Sombras <IT4+>`: CRIT e CRIT Dmg%. Bom d+. Não vejo outro hat por agora
-`Diadema Temporal Renegado': Se você for MUITO RICO, é um pouco melhor que o hat de bio5, mas bem mais caro para encantar
+`Memorável Artifício das Sombras [1] <IT4+>`: CRIT e CRIT Dmg%. Bom d+. Não vejo outro hat por agora  
+`Diadema Temporal Renegado [1] <IT4+>`: Se você for MUITO RICO, é um pouco melhor que o hat de bio5, mas bem mais caro para encantar
 ### MEIO
 `Óculos Retrofuturistas`: -10% de pós, é o kiel de peruca  
 `Asas Vitoriosas [1] <Pós>`: Com menos pós overall, mas com enchant de pós dá pra fechar e ainda tem slot
+`Selo de Loki [1}`: Consegue até -10% de pós, mas é muito dependente de RNG  
+`Diadema Radiante/Profano [1]`: Situacional contra anjo/demonio/dragão combando com os acessórios da torre de thanatos
 ### BAIXO
 `Familiar de Combate`: Pós e dano, bom d+  
 `Competidor Bebê Selvagem`: Pós e dano a distancia. Eu uso esse. Bão bonito e barato  
 `Cachecol Físico de Schmidt`: Usa isso se n fecha CRIT ainda. mas n recomendo mt não
+`Selo de Ouro`: Dano, comba com Selo de Loki e consegue pegar alguns bônus aleatórios
 ### Armadura
-`Malha Corredora Ilusional`: Tem que tá no +11 pra valer a pena. faz combo com a bota, boa d+  
-`Colete Ilusion <U-Pós 2xS-ATQ>`: Bão bonito e acho que a mais barata (Exceto o u-pós, ta o olho da cara)  
-`Colete Automatron <P-Pós, 2xH-Triplo ou 2x M-ATQ>`: Não tive bolas pra por H-Triplo, uso a mesma armor em outros bonecos. bom allrounder e dá 16% de pós, mas é CARO  
-`Exoesqueleto Crítico`: Caro y bom, acho que bem refinado é oq + vai dar dano dessa lista
+`Malha Corredora Ilusional [1]`: Tem que tá no +11 pra valer a pena. faz combo com a bota, boa d+  
+`Colete Ilusion [1] <U-Pós 2xS-ATQ>`: Bão bonito e acho que a mais barata (Exceto o u-pós, ta o olho da cara)  
+`Traje de Freeoni [1]`: Ligeiramente superior ao Ilusion e inferior ao Automatron sem grau. Entre as melhores caso grau A  
+`Colete Automatron [1] <P-Pós, 2xH-Triplo ou 2x M-ATQ>`: Não tive bolas pra por H-Triplo, uso a mesma armor em outros bonecos. bom allrounder e dá 16% de pós, mas é CARO  
+`Exoesqueleto Crítico [1]`: Caro y bom, acho que bem refinado é oq + vai dar dano dessa lista
 ### Capa
-`Manto Temporal AGI`: Melhor opção para dano entre os mantos temporal (ligeiramente supeior ao DES)
-`Manto Temporal DES`: Use se tu ja fechou seu CRIT Rate  
-`Manto Temporal FOR`: Testei vs o DES, ambos no +12, DES foi melhor, mas se tem esse usa esse  
-`Manto Temporal LUK`: Usa esse se ta dificil fechar CRIT  
-`Jetpack Crítica`: Usa esse se teu cartão virou e vc quer se separar da tua esposa (comba com Exo)
+`Manto Temporal AGI [1]`: Melhor opção de dano entre os Mantos Temporais (ligeiramente supeior ao DES)  
+`Manto Temporal DES [1]`: Use se tu ja fechou seu CRIT Rate  
+`Manto Temporal FOR [1]`: Testei vs o DES, ambos no +12, DES foi melhor, mas se tem esse usa esse  
+`Manto Temporal LUK [1]`: Usa esse se ta dificil fechar CRIT  
+`Jetpack Crítica [1]`: Usa esse se teu cartão virou e vc quer se separar da tua esposa (comba com Exo)
 ### Bota
-`Bota Temporal LUK`: Usa essa. pronto. tenta pegar MA4/DES+200.
+`Bota Temporal LUK [0/1]`: Usa essa. pronto. tenta pegar MA4/DES+200.
 ### Arma
-`Balista Primordial`: Praticamente o mesmo dano do Arco Primordial com o bonus de dar -10% de pós. Eu uso essa.  
-`Arco Primordial`: Dano bacana, mas n tem pós, imo pior que Balista Primordial
+`Balista Primordial [2]`: Praticamente o mesmo dano do Arco Primordial com o bonus de dar -10% de pós. Eu uso essa.  
+`Arco Primordial [2]`: Dano bacana, mas n tem pós, imo pior que Balista Primordial
 ### Acessórios
-`Turbinas Ilusión`: Ótimo custo beneficio, encanta com MA4/F4/AA4  
-`Turbinas Automatron`: Mais caro, mas mais forte, uso essa hoje em dia. Encanta com M-Atraso, M-Fatal e M-Tiro  
-`Combo Radiante`: Anéis de thanatos encantados, Situacionais: contra demonio é bacana pra aumentar dano.
+`Turbinas Ilusión [1]`: Ótimo custo beneficio, encanta com MA4/F4/AA4  
+`Turbinas Automatron [1]`: Mais caro, mas mais forte, uso essa hoje em dia. Encanta com M-Atraso, M-Fatal e M-Tiro  
+`Brasão de Schmidt AGI [1]`: Caso combe com o Cachecol, principalmente pela taxa mesmo  
+`Combo Radiante/Profano [1]`: Anéis de thanatos encantados, Situacionais: contra anjo/demonio/dragão é bacana pra aumentar dano  
 
 ## Cartas
 ### Topo
 `Dramoh Abismal`: Dano Crítico, comba com Carta da Bota (e Meio se tu tiver slot, jogue uma dramoh rei)  
 `Bungingis`: Sei lá como fala o nome desse satanás, 5% de hp (e Meio se tu tiver slot, jogue uma deleter voador)  
-`Celacanto Violento`: Quer me adotar? BiS.
+`Celacanto Violento`: Quer me adotar? BiS.  
+`Carta Kiel-D-01`: Quando você é muito rico e acha Bis um doce barato
 ### Meio
 `Dramoh Rei`: Comba com a Dramoh Abismal. se n tiver dramoh abismal usa qlqr outra coisa  
 `Deleter Voador`: Comba com a `Buginsalgo`. Dá 5%de hp ela sozinha. acho boa
 ### Baixo
-Sai daqui bRO player safado
+Sai daqui bRO player safado - (sdds de meu cachecol com Kiel t-t)
 ### Armadura
-`Carta Byorgue`: Amdarais de muleta 10% de dano físico e mágico  
+`Carta Byorgue`: Amdarais de muleta 10% de dano físico e mágico Obs: Atualmente o efeito da carta não está funcionando na classe    
 `Carta Observação`: Combo com carta `Empatia`. Atualmente é a que uso  
-`Carta Raposa Raivosa`: Ajuda se ainda te falta CRIT.
+`Carta Raposa Raivosa`: Ajuda se ainda te falta CRIT.  
 `Carta Amdarais`: Amdarais sem muleta. 15% de dano fisico e mágico  
 `Carta Amdarais Sombrio`: 20% de dano físico e mágico... me adota?
 ### Capa
@@ -90,7 +96,8 @@ Sai daqui bRO player safado
 `Carta Quimera Galensis`: se tá com dificuldade de fechar CRIT essa carta pode te ajudar. Honestíssima.
 ### Bota
 `Carta Tritão Abismal`: Comba com a Dramoh Abismal. ATQ e bastante dano critico, é a que uso atualmente.  
-`Carta Zumbi Atirado`: HP e SP, prefiro a Tritão Abismal
+`Carta Zumbi Atirado`: HP e SP, prefiro a Tritão Abismal  
+`Carta Wezen`: Dependendo da quantidade de multiplicadores de dano crítico e dano físico a distância, fica semelhante ao Tritão.
 
 ### Acessórios
 `Carta Mímico do Vazio`: 15% de dano crítico. A que uso atualmente  

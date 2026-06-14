@@ -39,6 +39,7 @@ Nos proximos rebalances isso vai cair pra só 30% pq a recarga vai passar a ser 
 Abaixo vou colocar opções de builds
 ### TOPO
 `Memorável Artifício das Sombras <IT4+>`: CRIT e CRIT Dmg%. Bom d+. Não vejo outro hat por agora
+`Diadema Temporal Renegado': Se você for MUITO RICO, é um pouco melhor que o hat de bio5, mas bem mais caro para encantar
 ### MEIO
 `Óculos Retrofuturistas`: -10% de pós, é o kiel de peruca  
 `Asas Vitoriosas [1] <Pós>`: Com menos pós overall, mas com enchant de pós dá pra fechar e ainda tem slot
@@ -52,6 +53,7 @@ Abaixo vou colocar opções de builds
 `Colete Automatron <P-Pós, 2xH-Triplo ou 2x M-ATQ>`: Não tive bolas pra por H-Triplo, uso a mesma armor em outros bonecos. bom allrounder e dá 16% de pós, mas é CARO  
 `Exoesqueleto Crítico`: Caro y bom, acho que bem refinado é oq + vai dar dano dessa lista
 ### Capa
+`Manto Temporal AGI`: Melhor opção para dano entre os mantos temporal (ligeiramente supeior ao DES)
 `Manto Temporal DES`: Use se tu ja fechou seu CRIT Rate  
 `Manto Temporal FOR`: Testei vs o DES, ambos no +12, DES foi melhor, mas se tem esse usa esse  
 `Manto Temporal LUK`: Usa esse se ta dificil fechar CRIT  

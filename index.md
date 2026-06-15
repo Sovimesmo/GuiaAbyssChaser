@@ -1,4 +1,8 @@
-# Guia de Mandraque Arqueiro  [by Nothiel, recuse imitações]
+# Guia de Mandraque Arqueiro
+Contribuintes:
+
+-Nothiel (@nothielf)
+-Sovi (@sovimesmo)
 
 Saudações a todos serumanos! Sou o Nothiel [ aka `Mandraquiel` no discord]. Atualmente jogo de Mandraque desde que lançou a classe. Como tem mta duvida sobre vou centralizar minhas experiencias aqui :) 
 Lembrando que esse guia vai ser open source ( link do github [aqui](https://github.com/nothiel/GuiaAbyssChaser)! ), aceitamos pull requests, vamo q vamo

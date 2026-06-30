@@ -4,7 +4,7 @@ Contribuintes:
 -Nothiel (@nothielf)
 -Sovi (@sovimesmo)
 
-Saudações a todos serumanos! Sou o Nothiel [ aka `Mandraquiel` no discord]. Atualmente jogo de Mandraque desde que lançou a classe. Como tem mta duvida sobre vou centralizar minhas experiencias aqui :) 
+Saudações a todos serumanos! Sou o Nothiel [ aka `Nothielf` no discord]. Atualmente jogo de Mandraque desde que lançou a classe. Como tem mta duvida sobre vou centralizar minhas experiencias aqui :) 
 Lembrando que esse guia vai ser open source ( link do github [aqui](https://github.com/nothiel/GuiaAbyssChaser)! ), aceitamos pull requests, vamo q vamo
 
 ## Atributos
@@ -42,8 +42,9 @@ Nos proximos rebalances isso vai cair pra só 30% pq a recarga vai passar a ser 
 
 Abaixo vou colocar opções de builds
 ### TOPO
-`Memorável Artifício das Sombras [1] <IT4+>`: CRIT e CRIT Dmg%. Bom d+. Não vejo outro hat por agora  
-`Diadema Temporal Renegado [1] <IT4+>`: Se você for MUITO RICO, é um pouco melhor que o hat de bio5, mas bem mais caro para encantar
+`Elmo da Fé II [1] <IT3> <PC3>`: CRIT, CRIT dmg, dano a distância, serve café, comba com arma
+`Memorável Artifício das Sombras [1] <IT4+>`: CRIT e CRIT Dmg%. Bom, mas perde em dano e crit rate pro Elmo da Fé II
+`Diadema Temporal Renegado [1] <IT4+>`: Se você for MUITO RICO, é um pouco melhor que o hat de bio5, mas bem mais caro para encantar. Pior que o Elmo da fé, burrice, não vá nesse.
 ### MEIO
 `Óculos Retrofuturistas`: -10% de pós, é o kiel de peruca  
 `Asas Vitoriosas [1] <Pós>`: Com menos pós overall, mas com enchant de pós dá pra fechar e ainda tem slot
@@ -55,6 +56,7 @@ Abaixo vou colocar opções de builds
 `Cachecol Físico de Schmidt`: Usa isso se n fecha CRIT ainda. mas n recomendo mt não
 `Selo de Ouro`: Dano, comba com Selo de Loki e consegue pegar alguns bônus aleatórios
 ### Armadura
+`Traje do Lobo Cinzento [1]`: Com Artilheiro e Triplo ele fica bem honesto. melhor que Automatron se bem encantado, mas dificil de vir enchant bom.
 `Malha Corredora Ilusional [1]`: Tem que tá no +11 pra valer a pena. faz combo com a bota, boa d+  
 `Colete Ilusion [1] <U-Pós 2xS-ATQ>`: Bão bonito e acho que a mais barata (Exceto o u-pós, ta o olho da cara)  
 `Traje de Freeoni [1]`: Ligeiramente superior ao Ilusion e inferior ao Automatron sem grau. Entre as melhores caso grau A  
@@ -66,11 +68,14 @@ Abaixo vou colocar opções de builds
 `Manto Temporal FOR [1]`: Testei vs o DES, ambos no +12, DES foi melhor, mas se tem esse usa esse  
 `Manto Temporal LUK [1]`: Usa esse se ta dificil fechar CRIT  
 `Jetpack Crítica [1]`: Usa esse se teu cartão virou e vc quer se separar da tua esposa (comba com Exo)
+`Casaco Pirata [1]`: Atualmente BiS pra renegado. Grade C +12 fica MT forte (17.8% mais forte q Temporal DES +12 na minha build)
 ### Bota
 `Bota Temporal LUK [0/1]`: Usa essa. pronto. tenta pegar MA4/DES+200.
 ### Arma
 `Balista Primordial [2]`: Praticamente o mesmo dano do Arco Primordial com o bonus de dar -10% de pós. Eu uso essa.  
 `Arco Primordial [2]`: Dano bacana, mas n tem pós, imo pior que Balista Primordial
+`Besta Adulter Fides [2]`: Pior que Arco/Balista primordial mesmo bem refinado, mas se dropar é de graça.
+`Besta Vivatus Fides [2]`: Se usado com o Elmo da Fé 2 fica MUITO mais forte que a balista. tb dá pós conj, maravilhoso (deus pfv deixa eu dropar 01 unidade dele)
 ### Acessórios
 `Turbinas Ilusión [1]`: Ótimo custo beneficio, encanta com MA4/F4/AA4  
 `Turbinas Automatron [1]`: Mais caro, mas mais forte, uso essa hoje em dia. Encanta com M-Atraso, M-Fatal e M-Tiro  
@@ -89,7 +94,7 @@ Abaixo vou colocar opções de builds
 ### Baixo
 Sai daqui bRO player safado - (sdds de meu cachecol com Kiel t-t)
 ### Armadura
-`Carta Byorgue`: Amdarais de muleta 10% de dano físico e mágico Obs: Atualmente o efeito da carta não está funcionando na classe    
+`Carta Byorgue`: Amdarais de muleta 10% de dano físico e mágico
 `Carta Observação`: Combo com carta `Empatia`. Atualmente é a que uso  
 `Carta Raposa Raivosa`: Ajuda se ainda te falta CRIT.  
 `Carta Amdarais`: Amdarais sem muleta. 15% de dano fisico e mágico  
